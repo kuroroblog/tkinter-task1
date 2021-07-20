@@ -12,5 +12,8 @@ Tkinterを用いてアルコール度数を計算するGUIアプリを作成す�
 8. `$ python main.py`を実行する。
 9. 動作確認を行う。
 
+# GUIアプリ画像
+<img width="1680" alt="screenshot 2021-07-21 6 40 38" src="https://user-images.githubusercontent.com/23373288/126399229-4c42300f-f9b6-491d-a14b-2c8e8297d553.png">
+
 # 参考文献
 https://joytas.net/programming/python/tkinter-sake
