@@ -26,6 +26,7 @@ def bt_clear():
     e1.delete(0, tk.END)
     e2.delete(0, tk.END)
     e3.delete(0, tk.END)
+    l2.configure(text='')
 
 # 入力制限について : https://kuroro.blog/python/YaHEdMd4ScGvrU44zdT6/
 def onValidate(S):
